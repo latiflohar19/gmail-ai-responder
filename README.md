@@ -1,5 +1,3 @@
-# gmail-ai-responder
-A simple AI-powered Gmail reply bot using OpenAI and SMTP.
 # 📧 Gmail AI Responder
 
 This project auto-replies to emails using OpenAI's GPT API and sends them via Gmail's SMTP.
